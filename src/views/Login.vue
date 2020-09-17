@@ -29,7 +29,7 @@ export default {
         username: [
           {
             required: true,
-            message: "username cannot leave empty!",
+            message: "username cannot leave empty",
             trigger: "change",
           },
         ],
